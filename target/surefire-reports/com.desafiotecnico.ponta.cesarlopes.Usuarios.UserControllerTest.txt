@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.desafiotecnico.ponta.cesarlopes.Usuarios.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.971 s - in com.desafiotecnico.ponta.cesarlopes.Usuarios.UserControllerTest

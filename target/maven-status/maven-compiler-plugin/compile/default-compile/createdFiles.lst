@@ -1,4 +1,13 @@
-com/desafiotecnico/ponta/cesarlopes/Tarefas/Tarefa.class
-com/desafiotecnico/ponta/cesarlopes/Tarefas/TarefaController.class
 com/desafiotecnico/ponta/cesarlopes/EndpointListener.class
+com/desafiotecnico/ponta/cesarlopes/Tarefas/TarefaRepository.class
+com/desafiotecnico/ponta/cesarlopes/Tarefas/TarefaController.class
+com/desafiotecnico/ponta/cesarlopes/Exceptions/GlobalExceptionHandler.class
+com/desafiotecnico/ponta/cesarlopes/Exceptions/CustomException.class
+com/desafiotecnico/ponta/cesarlopes/Token/Token.class
+com/desafiotecnico/ponta/cesarlopes/Token/LoginRequest.class
 com/desafiotecnico/ponta/cesarlopes/CesarlopesApplication.class
+com/desafiotecnico/ponta/cesarlopes/Usuarios/UserRepository.class
+com/desafiotecnico/ponta/cesarlopes/Tarefas/Tarefa.class
+com/desafiotecnico/ponta/cesarlopes/Tarefas/Status.class
+com/desafiotecnico/ponta/cesarlopes/Usuarios/User.class
+com/desafiotecnico/ponta/cesarlopes/Usuarios/UserController.class

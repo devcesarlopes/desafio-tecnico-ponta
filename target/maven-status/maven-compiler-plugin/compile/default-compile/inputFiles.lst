@@ -1,3 +1,13 @@
-/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/CesarlopesApplication.java
+/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/Tarefas/Status.java
 /Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/Tarefas/TarefaController.java
+/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/Tarefas/TarefaRepository.java
+/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/EndpointListener.java
+/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/Usuarios/UserController.java
+/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/Exceptions/CustomException.java
+/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/Usuarios/UserRepository.java
+/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/CesarlopesApplication.java
+/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/Token/Token.java
+/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/Usuarios/User.java
 /Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/Tarefas/Tarefa.java
+/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/Token/LoginRequest.java
+/Users/cesarlopes/Documents/cesarlopes/src/main/java/com/desafiotecnico/ponta/cesarlopes/Exceptions/GlobalExceptionHandler.java
